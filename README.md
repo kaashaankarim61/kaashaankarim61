@@ -1,9 +1,11 @@
-# Hi 👋, I'm Kaashaan Karim
-A Web App Developer and an AI/ML enthusiast.
+<h1 align="center">Hi 👋, I'm Kaashaan Karim</h1>
+<h3 align="center">A Web App Developer and an AI/ML enthusiast.</h3>
 
-- 💬 Ask me about **MERN, Machine Learning and AI**
+- 💬 Ask me about **MERN, AI and ML**
+
 - 📫 How to reach me **kaashaankarim619@gmail.com**
-- ⚡ Fun fact **I am a foodie!.**
+
+- ⚡ Fun fact **I am a foodie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
